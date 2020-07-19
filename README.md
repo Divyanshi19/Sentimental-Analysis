@@ -1,1 +1,2 @@
 # Sentimental-Analysis
+In this project, we will predict the sentiments of twitter, whether sentiments are positive, negative or neutral. We will first clean the data , remove null values and convert the string values. We will then remove the punctuations, two letter words, @ sign as it is most important part of twitter comments. Then we will apply our models for getting the percentage of sentiments.
